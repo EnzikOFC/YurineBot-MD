@@ -17,10 +17,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['573012482597', 'Dev Diego 👑', true],
-   ['573218138672', 'Owner 🍭', true],
-   ['5493876432076'],
-   ['5351524614']
+   ['5491168758497', 'Creator 👑', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -34,18 +31,18 @@ global.prems = []
 global.isBaileysFail = false
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.7'
-global.nameqr = 'Yaemori Bot - MD'
-global.sessions = 'MiniSession'
-global.jadi = 'MiniJadiBot'
+global.nameqr = '𝐘𝐮𝐫𝐢𝐧𝐞𝐁𝐨𝐭-𝐌𝐃'
+global.sessions = 'YurineSession'
+global.jadi = 'YurineJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.botname = '© ᥡᥲᥱm᥆rі ᑲ᥆𝗍 - mძ'
-global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥡᥲᥱm᥆rіᑲ᥆𝗍 ☄︎'
-global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ ძᥱ᥎-ძіᥱg᥆ ᰔᩚ'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥙᥒᥣіgһ𝗍 𝗍ᥱᥲm ⚡︎'
-global.textbot = 'ᥲі ᥡᥲᥱm᥆rі : ᥆𝖿ᥴძіᥱg᥆ 🚩'
+global.packname = '⪛✰ 🎀 𝒴𝓊𝓇𝒾𝓃𝑒𝐵❁𝓉-𝑀𝒟 🎀 ✰⪜'
+global.botname = 'уυяιηє - вσт - м∂'
+global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YυɾιɳҽBσƚ ☄︎'
+global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ EnzoOfc ᰔᩚ'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MoonLight 𝗍ᥱᥲm ⚡︎'
+global.textbot = 'ʏᴜʀɪɴᴇʙᴏᴛ-ᴍᴅ : EnzoOfc 🚩'
 global.vs = '2.0.6'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -61,17 +58,17 @@ global.avatar = fs.readFileSync('./media/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/KRbCRM6Gg65DccduR6QJLp' //YaemoriBot
-global.grupo2 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms' //YaemoriBot2
-global.grupo3 = 'https://chat.whatsapp.com/Fx0yC76BYzRAmiGxZWb9Ho' //team oficial
-global.grupo4 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot & YaemoriBot
-global.grupo5 = 'https://chat.whatsapp.com/Ek8vhsv1jg59SSzd6fHjta' //Curiosity & YaemoriBot
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-global.channel2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
-global.md = 'https://github.com/Dev-Diego/YaemoriBot-MD' 
-global.yt = 'https://www.youtube.com/@OfcDiego'
-global.tiktok = 'https://tiktok.com/@theyaemoribot'
-global.correo = 'theyaemoribot@gmail.com'
+global.grupo = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot
+global.grupo2 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot2
+global.grupo3 = 'hhttps://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //team oficial
+global.grupo4 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //GataBot & YaemoriBot
+global.grupo5 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //Curiosity & YaemoriBot
+global.channel = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
+global.channel2 = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
+global.md = 'https://github.com/EnzikOFC/YurineBot-MD' 
+global.yt = 'https://www.youtube.com/@Enzito-19'
+global.tiktok = ''
+global.correo = 'yurinebotmd@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
