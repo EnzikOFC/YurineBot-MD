@@ -52,7 +52,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 ║
 ║ ✨ 𝗥𝗲𝗰𝗼𝗺𝗽𝗲𝗻𝘀𝗮𝘀:
 ║• *15* _Estrellas_ 🌟
-║• *5* _NilouCoins_ 🪙
+║• *5* _YurineuCoins_ 🪙
 ║• *245* _Experiencia_ 💸
 ║• *12* _Tokens_ 💰
 ╚═✦「✰✰✰✰✰✰✰✰✰✰✰」═╯`
@@ -65,7 +65,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
       externalAdReply: {
         title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
         body: wm, 
-        thumbnailUrl: 'https://qu.ax/PlOU.jpg', 
+        thumbnailUrl: 'https://qu.ax/kqJV.jpg', 
         sourceUrl: canales,
         mediaType: 1,
         showAdAttribution: true,
