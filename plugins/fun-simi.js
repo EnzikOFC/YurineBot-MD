@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 
 const handler = async (m, {conn, text, command, args, usedPrefix}) => {
 
-if (!text) conn.reply(m.chat, '🍟 Te faltó el texto para hablar con *Ai Yaemori*', m, rcanal);
+if (!text) conn.reply(m.chat, '🍟 Te faltó el texto para hablar con *YurineBot-MD*', m, rcanal);
 try {
 // await m.react(emojis)
 const resSimi = await simitalk(text);
