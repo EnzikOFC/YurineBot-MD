@@ -51,10 +51,10 @@ global.emoji4 = '🍭'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🌸 𝙴𝚜𝚙𝚎𝚛𝚎 𝚂𝚘𝚢 Lenta...'
-global.waitt = '🌸 𝙴𝚜𝚙𝚎𝚛𝚎 𝚂𝚘𝚢 Lenta...'
-global.waittt = '🌸 Espere 𝚂𝚘𝚢 𝙻𝚎𝚗𝚝𝚊...'
-global.waitttt = '🌸 𝙴𝚜𝚙𝚎𝚛𝚎 𝚂𝚘𝚢 𝙻𝚎𝚗𝚝𝚊...'
+global.wait = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂...'
+global.waitt = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂...'
+global.waittt = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂...'
+global.waitttt = 'ღ 𝑬𝒔𝒑𝒆𝒓𝒆 𝑺𝒐𝒚 𝑳𝒆𝒏𝒕𝒂...'
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'  
