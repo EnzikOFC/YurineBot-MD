@@ -17,7 +17,7 @@ let { title, dl_url, size } = yt
 
 if (size.split('MB')[0] >= limit) return conn.reply(m.chat, `🚩 El archivo pesa mas de ${limit} MB, se canceló la Descarga.`, m, rcanal) 
 
-conn.reply(m.chat, `🚀 Descargando El Video...`, m, {
+conn.reply(m.chat, `𖤍 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂𝒏𝒅𝒐 𝒆𝒍 𝒗𝒊𝒅𝒆𝒐 𝒆𝒔𝒑𝒆𝒓𝒆...`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, showAdAttribution: true,
 title: packname,
 body: dev,
@@ -32,7 +32,7 @@ let { title, size, dl_url } = yt
 
 if (size.split('MB')[0] >= limit) return conn.reply(m.chat, `🚩 El archivo pesa mas de ${limit} MB, se canceló la Descarga.`, m, rcanal) 
 
-await conn.sendMessage(m.chat, { video: { url: dl_url }, caption: `🚩 *Aquí está tu video de Youtube*\n${wm}`, mimetype: 'video/mp4', fileName: `${title}` + `.mp4`}, {quoted: fkontak })
+await conn.sendMessage(m.chat, { video: { url: dl_url }, caption: `❦ *𝑨𝒒𝒖í 𝒆𝒔𝒕á 𝒕𝒖 𝒗𝒊𝒅𝒆𝒐 𝒅𝒆 𝒀𝒐𝒖𝒕𝒖𝒃𝒆*\n${wm}`, mimetype: 'video/mp4', fileName: `${title}` + `.mp4`}, {quoted: fkontak })
 await m.react(done)
 } catch {
 await m.react(error)
