@@ -1,4 +1,4 @@
-import fg from 'api-dylux'
+import fg from 'https://api.fgmods.xyz/downloadmenu'
 import yts from 'yt-search'
 import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
 let limit = 350
