@@ -37,7 +37,7 @@ https://dash.akira-host.store
 
 ━━━━━━━━》❈《 ━━━━━━━
 
-*💯 Dashboard De Akira-Host:*
+*💯 PanelOfc De Akira-Host:*
 
 https://panel.akira-host.store
 
