@@ -23,7 +23,7 @@ title: packname,
 body: dev,
 previewType: 0, thumbnail: icons,
 sourceUrl: channel }}})
-await conn.sendMessage(m.chat, { video: { url: dl_url }, caption: `🚩 *Aquí está tu video de Youtube*\n${dev}`, mimetype: 'video/mp4', fileName: `${title}` + `.mp4`}, {quoted: fkontak })
+await conn.sendMessage(m.chat, { video: { url: dl_url }, caption: `❦ *𝑨𝒒𝒖í 𝒆𝒔𝒕á 𝒕𝒖 𝒗𝒊𝒅𝒆𝒐 𝒅𝒆 𝒀𝒐𝒖𝒕𝒖𝒃𝒆*\n${dev}`, mimetype: 'video/mp4', fileName: `${title}` + `.mp4`}, {quoted: fkontak })
 await m.react(done)
 } catch {
 try {
