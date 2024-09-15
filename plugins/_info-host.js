@@ -52,7 +52,7 @@ No esperes más y lleva tu bot al siguiente nivel con nuestro servicio de alojam
 await conn.sendMessage(m.chat, { text: txt,
 contextInfo:{
 forwardedNewsletterMessageInfo: { 
-newsletterJid: '120363301598733462@newsletter', 
+newsletterJid: '120363318492622729@newsletter', 
 serverMessageId: '', 
 newsletterName: 'Kira-Host 💥' }, 
 forwardingScore: 9999999,
@@ -63,7 +63,7 @@ isForwarded: true,
 title: `🌑 𝗞𝗜𝗥𝗔-𝗛𝗢𝗦𝗧 🌑`,
 body: `¡El plus que necesitas!_`,
 "previewType": "PHOTO",
-thumbnailUrl: 'https://telegra.ph/file/551d3d544d7bc607fd337.jpg', 
+thumbnailUrl: 'https://qu.ax/WgwA.jpg', 
 sourceUrl: redeshost}}},
 { quoted: fkontak})
 } 
