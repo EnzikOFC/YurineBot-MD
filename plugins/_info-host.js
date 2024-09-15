@@ -69,5 +69,5 @@ sourceUrl: redeshost}}},
 } 
 handler.tags = ['main'] 
 handler.help = ['host', 'hosting'] 
-handler.command = ['host', 'corin', 'corinplus', 'hosting']
+handler.command = ['host', 'Kira', 'Kira-Host', 'hosting']
 export default handler
