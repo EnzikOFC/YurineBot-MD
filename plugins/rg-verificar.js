@@ -33,7 +33,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   global.db.data.users[m.sender].joincount += 5
 
   let sn = createHash('md5').update(m.sender).digest('hex').slice(0, 6)        
-  m.react('📩') 
+  m.react('✅') 
 
   let regbot = `╭══• ❈ » ◇ « ❈ » ✦ « ❈↞ •══╮
 *¡𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝙳𝙾  𝙴𝚇𝙸𝚃𝙾𝚂𝙰𝙼𝙴𝙽𝚃𝙴!*
