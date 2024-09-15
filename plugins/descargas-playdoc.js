@@ -20,9 +20,9 @@ sourceUrl: channel }}})
 
 const yt_play = await search(args.join(' '))
 let additionalText = ''
-if (command === 'play3' || command == 'playdoc') {
+if (command === 'play3' || command == 'playdoc') || (command === 'ytmp3doc') {
 additionalText = 'audio'
-} else if (command === 'play4' || command == 'playdoc2') {
+} else if (command === 'play4' || command == 'playdoc2') || (command === 'ytmp4doc') {
 additionalText = 'video'}
 
 let texto1 = `・₊✧★。..・✫・🎸🎧°⋆♡₊˚ 🔮
