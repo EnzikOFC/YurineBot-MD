@@ -17,11 +17,11 @@ let yt_play = await search(args.join(" "))
 let img = await (await fetch(`${yt_play[0].image}`)).buffer()
 
 let txt = `*𖣘  🅈 🄾 🅄 🅃 🅄 🄱 🄴 - 🄿 🄻 🄰 🅈  𖣘*\n\n`
-    txt += `🚩 *Titulo:*\n${yt_play[0].title}\n\n`
-    txt += `📅 *Publicado:*\n${yt_play[0].ago}\n\n`
-    txt += `🕜 *Duración:*\n${secondString(yt_play[0].duration.seconds)}\n\n`
+    txt += `✨ *Titulo:*\n${yt_play[0].title}\n\n`
+    txt += `📉 *Publicado:*\n${yt_play[0].ago}\n\n`
+    txt += `🌠 *Duración:*\n${secondString(yt_play[0].duration.seconds)}\n\n`
     txt += `📎 *Url:*\n${'https://youtu.be/' + yt_play[0].videoId}\n\n`
-    txt += `✨️ *Nota:* Para descargar responde a este mensaje con *1* o *2*.\n\n`
+    txt += `📍 *Nota:* Para descargar responde a este mensaje con *1* o *2*.\n\n`
     txt += `*1:* Video\n*2:* Audio`
 
 await conn.sendMessage(m.chat, {
