@@ -5,7 +5,7 @@ if (!args[0]) {
 return conn.reply(m.chat, '🍟 *Ingresa Un Link De Facebook*', m, rcanal)}
 let res
 try {
-conn.reply(m.chat, `🕒 *Descargando su video de facebook.*`, m, {
+conn.reply(m.chat, `𖤛 *𝐃𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐧𝐝𝐨 𝐬𝐮 𝐯𝐢𝐝𝐞𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐞𝐬𝐩𝐞𝐫𝐞...*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, showAdAttribution: true,
 title: packname,
 body: wm,
