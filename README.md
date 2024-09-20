@@ -33,7 +33,7 @@
 
 * 🌴 como tal más, esto se ah removido del repositorio oficial como tal, aquel usuario que intente instalar, deberá tener en cuenta que ya no se brindará soporte ni ya es instalable.
 
-> 🌱 **`Gracias por visitar el repositorio YaemoriBot`**
+> 🌱 **`Gracias por visitar el repositorio YurineBot-MD✨`**
 
 </details>
 
