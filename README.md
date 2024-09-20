@@ -1,4 +1,4 @@
-<h1 align="center">Yurine - Bot -MD 🌹</h1>
+<h1 align="center">Yurine - Bot - MD 🌹</h1>
 
 ![Yaemori](https://qu.ax/TDOf.jpg)
 
