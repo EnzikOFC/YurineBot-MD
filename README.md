@@ -87,15 +87,6 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=Dev-Diego/YaemoriBot-MD&ref=main&geo=UsEast)
 
------ 
-#### **`⏏️ ACTIVAR EN KOYEB`**
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Dev-Diego/YaemoriBot-MD&branch=master&name=yaemoribot-md)
-
-------------------
-#### **`☁️ ACTIVAR EN RENDER`**
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDev-Diego%2FYaemoriBot-MD)
-
-------------------
 ##### **`💻 PARA USUARIOS DE WINDOWS/VPS/RDP`**
 
 <details>
