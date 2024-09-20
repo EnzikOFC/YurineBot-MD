@@ -1,6 +1,6 @@
-<h1 align="center">Yaemori Bot - MD 🌱</h1>
+<h1 align="center">Yurine - Bot -MD 🌹</h1>
 
-![Yaemori](https://telegra.ph/file/d29e7f61a1dc85564ea5c.jpg)
+![Yaemori](https://qu.ax/TDOf.jpg)
 
  <p align="center">🚩 WhatsApp Bot Node-Js.</p>
 </p>
@@ -29,7 +29,7 @@
 * 📢 USER DE TERMUX
 🌱 Para los usuarios que intentan instalar el bot vía la aplicación **`termux`**, tenemos esta noticia.
 
-* 🌹 El staff de **`YaemoriBot`** da aviso a los usuarios de **`Termux`** que ya no es posible instalar el Bot debido a las actualizaciones y los últimos commits realizados por el equipo del bot
+* 🌹 El staff de **`YurineBot-MD`** da aviso a los usuarios de **`Termux`** que ya no es posible instalar el Bot debido a las actualizaciones y los últimos commits realizados por el equipo del bot
 
 * 🌴 como tal más, esto se ah removido del repositorio oficial como tal, aquel usuario que intente instalar, deberá tener en cuenta que ya no se brindará soporte ni ya es instalable.
 
@@ -44,32 +44,8 @@
 <details>
 <summary><b> 🌹 Contáctos</b></summary>
 
-* theyaemoribot@gmail.com
-* https://wa.me/573218138672
-* https://wa.me/5351524614
-* https://wa.me/573205853665
-* https://wa.me/573106909511
-
-</details>
-
----
-
-### **`☁️ CORINPLUS HOTS`**
-<a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Dashboard:** [`Aquí`](https://dash.corinplus.com)
-- **Panel:** [`Aquí`](https://ctrl.corinplus.com)
-- **Estado de servicios:** [`Aquí`](https://status.corinplus.com)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
-- **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-- **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
-
-<details>
-<summary>☁️ Ajustes del Servidor - YaemoriBot</summary><img src="https://qu.ax/jFXV.jpg">
+* yurinebotmd@gmil.com
+* https://wa.me/5491130182250
 
 </details>
 
@@ -88,11 +64,11 @@
 [`🚩 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/Dev-Diego/YaemoriBot-MD
+> git clone https://github.com/EnzikOFC/YurineBot-MD
 ```
 
 ```bash
-> cd YaemoriBot-MD && yarn install
+> cd YurineBot-MD && yarn install
 ```
 
 ```bash
@@ -131,11 +107,11 @@
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-> git clone https://github.com/Dev-Diego/YaemoriBot-MD
+> git clone https://github.com/EnzikOFC/YurineBot-MD
 ```
 
 ```bash
-> cd YaemoriBot-MD && npm install 
+> cd YurineBot-MD && npm install 
 ```
 
 ```bash
@@ -146,51 +122,9 @@
 
 ##### **`💻 Instalación de FFmpeg para Windows`**
 
-<details>
- <summary><b> ⚡️ Comandos2</b></summary>
-
-* Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [FFmpeg](https://www.gyan.dev/ffmpeg/builds/).
-* Extraer archivos a `C:\` path.
-* Cambie el nombre de la carpeta extraída a `ffmpeg`.
-* Ejecute el símbolo del sistema como administrador.
-* Ejecute el siguiente comando:
-```cmd
-> setx /m PATH "C:\ffmpeg\bin;%PATH%"
-```
-Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
-* Ahora que tiene FFmpeg instalado, verifique que funcionó ejecutando este comando para ver la versión:
-```cmd
-> ffmpeg -version
-```
-
-</details>
-
----
-
-## **`🔗 Enlaces útiles`**
-
-| APP | TIPO | ENLACE |
-|------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A) |
-| WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
-| WhatsApp | Canal Corin | [¡Click aquí!](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g) |
-| WhatsApp | Canal Infinity | [¡Click aquí!](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A) |
-| WhatsApp | Grupo | [¡Click aquí!](https://chat.whatsapp.com/KRbCRM6Gg65DccduR6QJLp) |
-| WhatsApp | Asistente | [¡Click aquí!](wa.me/573218138672) |
-
----
-
-### **`🌴 COLABORADORES`**
-<a href="https://github.com/Dev-Diego/YaemoriBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Dev-Diego/YaemoriBot-MD" /> 
-</a>
-
-### **`👑 PROPIETARIO`**
-<a
-href="https://github.com/Dev-Diego"><img src="https://github.com/Dev-Diego.png" width="130" height="130" alt="OfcDiego"/></a>
 
 ### **`🌹 CREDITOS`**
 <a
 href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="130" height="130" alt="GataDios"/></a>
 
-[© Powered By Sunlight Team ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
+[© Powered By moonlight Team ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
