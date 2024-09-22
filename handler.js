@@ -503,7 +503,7 @@ group: '「🐢」 *Esta funcion solo puede ser ejecutada en grupos.*',
 private: '「🍭」 *Esta función solo puede ser usada en chat privado.*', 
 admin: '「👑」 *Este comando solo puede ser usado por admins.*', 
 botAdmin: '「🚩」 *Para usar esta función debo ser admin.*', 
-unreg: '「🌸」 *¡(っ◔◡◔)っ ♥ Hey! no estas registrado, registrese para usar esta función ♥*\n\n*/reg nombre.edad*\n\n*_❕ Ejemplo_* : /reg Yurine.111',
+unreg: '「🌸」 *¡(っ◔◡◔)っ ♥ 𝐻𝑒𝓎! 𝓃𝑜 𝑒𝓈𝓉𝒶𝓈 𝓇𝑒𝑔𝒾𝓈𝓉𝓇𝒶𝒹𝑜, 𝓇𝑒𝑔𝒾𝓈𝓉𝓇𝑒𝓈𝑒 𝓅𝒶𝓇𝒶 𝓊𝓈𝒶𝓇 𝑒𝓈𝓉𝒶 𝒻𝓊𝓃𝒸𝒾ó𝓃 ♥*\n\n*/reg nombre.edad*\n\n*_❕ Ejemplo_* : /reg Yurine.111',
 restrict: '「💫」 *Esta característica esta desactivada.*'
 }[type];
 if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
