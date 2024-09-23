@@ -42,7 +42,7 @@ global.botname = 'уυяιηє - вσт - м∂'
 global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YυɾιɳҽBσƚ ☄︎'
 global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ EnzoOfc ᰔᩚ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MoonLight 𝗍ᥱᥲm ⚡︎'
-global.textbot = '𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫 : Ξｎｚｉｔｏ♢ｆｃ 🚩'
+global.textbot = '𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫 : Ξｎｚｉｔｏ♢ｆｃ ✔︎'
 global.vs = '2.0.6'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
