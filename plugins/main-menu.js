@@ -155,7 +155,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 
-const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://qu.ax/lJVp.jpg')
+const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://qu.ax/zJqn.jpg')
 
 await conn.reply(m.chat, '*💫 𝑬𝒏𝒗𝒊𝒂𝒏𝒅𝒐 𝑴𝒆𝒏𝒖́ 𝑫𝒆 𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫...*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: packname, body: dev, sourceUrl: redeshost, thumbnail: await (await fetch(pp)).buffer() }}})
 
