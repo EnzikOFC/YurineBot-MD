@@ -157,7 +157,7 @@ const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ?
 
 const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://qu.ax/zJqn.jpg')
 
-await conn.reply(m.chat, '*💫 𝑬𝒏𝒗𝒊𝒂𝒏𝒅𝒐 𝑴𝒆𝒏𝒖́ 𝑫𝒆 𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫...*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: packname, body: dev, sourceUrl: redeshost, thumbnail: await (await fetch(pp)).buffer() }}})
+await conn.reply(m.chat, '╭ׅׄ̇─ׅ̻ׄ╮۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹۪̇߭︹ׅ̟ׄ̇︹ׅ۪ׄ̇߭︹ׅ̟ׄ̇⊹*\n├ ⚘݄𖠵⃕⁖𖥔.𝑪𝒂𝒓𝒈𝒂𝒏𝒅𝒐 𝑴𝒆𝒏𝒖...  ꪶꪾ❍̵̤̂̂ꫂ\n├Ą𝒈𝒖𝒂𝒓𝒅𝒆 𝒖𝒏 𝒎𝒐𝒎𝒆𝒏𝒕𝒐❞\n╰ׁ̻─ׅׄ─۪۬─۟─۪─۟─۪۬─۟─۪─۟─۪۬─۟─۪─۟┄۪۬┄۟┄۪┈۟┈۪', m, { contextInfo:{ forwardingScore: 2024, isForwarded: true, externalAdReply: {title: namechannel, body: dev, sourceUrl: channel, thumbnail: icons }}})
 
 await m.react('🌠') 
 
