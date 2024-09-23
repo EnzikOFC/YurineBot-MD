@@ -10,14 +10,14 @@ let uptime = clockString(_uptime)
 let estado = `Hola, bienvenido usuario/a
 seleccione los botones de abajo.`
 await conn.sendButton(m.chat, estado, `😃 𝗥𝗘𝗖𝗨𝗘𝗥𝗗𝗔 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗥𝗧𝗘 𝗖𝗢𝗡:\nAutoVerify\n🥳 𝗗𝗶𝘀𝗳𝗿𝘂𝘁𝗮 𝗱𝗲𝗹 𝗯𝗼𝘁 💯\n` + nameN3 + '\n' + nameNN2, pp, [
-['🍁 𝗠𝗲𝗻𝘂 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗼 🍁', '.allmenu'],
-['🌎 𝗘𝘀𝘁𝗮𝗱𝗼 🌎', '/estado'],
-['✅ 𝗔𝘂𝘁𝗼𝗩𝗲𝗿𝗶𝗳𝘆 ✅', '#reg NilouBot.19']], null,
-['EnzitoOfc', `${creador}`]], m)
+['🍁 Menu Completo 🍁', '.menucompleto'],
+['🌎 Estado 🌎', '/estado'],
+['✅ AutoVerify ✅', '#reg NZsub.18']], null, [
+['EnzitoOFC', `${creador}`]], m)
 }
 handler.help = ['estado']
 handler.tags = ['main']
-handler.command = /^(menu)$/i
+handler.command = /^(menu|help|comandos)$/i
 export default handler
 
 function clockString(ms) {
